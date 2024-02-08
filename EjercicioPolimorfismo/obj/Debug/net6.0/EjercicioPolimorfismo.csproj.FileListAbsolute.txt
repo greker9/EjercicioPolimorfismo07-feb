@@ -1,0 +1,14 @@
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net6.0\EjercicioPolimorfismo.exe
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net6.0\EjercicioPolimorfismo.deps.json
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net6.0\EjercicioPolimorfismo.runtimeconfig.json
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net6.0\EjercicioPolimorfismo.dll
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\bin\Debug\net6.0\EjercicioPolimorfismo.pdb
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.AssemblyInfo.cs
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.dll
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\refint\EjercicioPolimorfismo.dll
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.pdb
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\EjercicioPolimorfismo.genruntimeconfig.cache
+C:\xampp\htdocs\tareaPolimorfismo\EjercicioPolimorfismo\EjercicioPolimorfismo\obj\Debug\net6.0\ref\EjercicioPolimorfismo.dll
